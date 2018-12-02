@@ -46,13 +46,12 @@ Return postedNodeCounter
 	To solve the second task, detecting sub-communities I've used Grivan Newman algorithm.
 	
 ## Grivan Newman Algorithm in details:
- * 
- * 1. Get BFS (Breadth First Search) representation of the graph from each each vertex of the graph)
- * 2. Label each node by the number of the shortest paths that reach it from the root
- * 3. Set credit of each node and DAG edges (This part has also been implemented in Graph class) as this step
- * 	  will be repeated for every graph to detect communities)
- * 
- * Time complexity: O(|v|^3)
+  1. Get BFS (Breadth First Search) representation of the graph from each each vertex of the graph)
+  2. Label each node by the number of the shortest paths that reach it from the root
+  3. Set credit of each node and DAG edges (This part has also been implemented in Graph class) as this step
+   will be repeated for every graph to detect communities)
+  
+ Time complexity: O(|v|^3)
 
 ###Testing:
 I've stated the project with the above mentioned Dataset. Unfortunately my computer is not capable of calculating big computation that's why I've created three small
