@@ -4,9 +4,8 @@
 ## Java programming.
 
 ## In this project my assignments tasks were:
-	### 1. Find the minimum number of user of the social network who need to share a post to be seen by everyone.
-	###   Also print these users.
-	### 2. Detect the sub communities in the social network with minimum number of users. 
+### 1. Find the minimum number of user of the social network who need to share a post to be seen by everyone. Also print those users.
+### 2. Detect the sub communities in the social network with minimum number of users. 
 
 ## Data
 I started the assignments with the following data set. 
@@ -49,7 +48,7 @@ This dataset came along with Capston warm up assignment.
   3. Set credit of each node and DAG edges (This part has also been implemented in Graph class) as this step
    will be repeated for every graph to detect communities)
   
- Time complexity: O(|v|^3)
+ ### Time complexity: O(|v|^3)
 
 ### Testing:
 I've stated the project with the above mentioned Dataset. Unfortunately my computer is not capable of calculating big computation that's why I've created three small
