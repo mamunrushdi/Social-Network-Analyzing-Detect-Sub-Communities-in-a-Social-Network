@@ -14,7 +14,7 @@ This is anonymize data set, instead of name, user id has been used to identify a
 In the dataset, there are 14747 vertices and 886442 edges.
 This dataset came along with Capston warm up assignment.
 
-## The data set will be represented in the graph as Adjacency List as the graph will be a spare graph.
+#### The data set will be represented in the graph as Adjacency List as the graph will be a spare graph.
 
 ## Algorithm Analysis:
 ### For Task One:
