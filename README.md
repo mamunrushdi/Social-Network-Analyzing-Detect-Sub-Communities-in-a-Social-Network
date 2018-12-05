@@ -1,9 +1,8 @@
 # Capstone: Analyzing (Social) Network Data
 
-## This is Coursera Capston Project for University of California San Diego on Social Network analyzing using 
-## Java programming.
+### This is Coursera Capston Project for University of California San Diego on Social Network analyzing using Java programming.
 
-## In this project my assignments tasks were:
+#### In this project my assignments tasks were:
 ### 1. Find the minimum number of user of the social network who need to share a post to be seen by everyone. Also print those users.
 ### 2. Detect the sub communities in the social network with minimum number of users. 
 
