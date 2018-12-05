@@ -39,9 +39,9 @@ This dataset came along with Capston warm up assignment.
 ### Time complexity: O(|v|^2 + |v|), 
 #### where v is the total number of vertex in the graph
 
-# For Second Task: To solve the second task, detecting sub-communities I've used [Grivan Newman algorithm](https://en.wikipedia.org/wiki/Girvan%E2%80%93Newman_algorithm).
+## For Second Task: To solve the second task, detecting sub-communities I've used [Grivan Newman algorithm](https://en.wikipedia.org/wiki/Girvan%E2%80%93Newman_algorithm).
 	
-## Grivan Newman Algorithm in details:
+### Grivan Newman Algorithm in details:
   1. Get BFS (Breadth First Search) representation of the graph from each each vertex of the graph)
   2. Label each node by the number of the shortest paths that reach it from the root
   3. Set credit of each node and DAG edges (This part has also been implemented in Graph class) as this step
