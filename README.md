@@ -40,7 +40,7 @@ This dataset came along with Capston warm up assignment.
 ### Time complexity: O(|v|^2 + |v|), 
 #### where v is the total number of vertex in the graph
 
-# For Second Task: To solve the second task, detecting sub-communities I've used Grivan Newman algorithm.
+# For Second Task: To solve the second task, detecting sub-communities I've used [Grivan Newman algorithm](https://en.wikipedia.org/wiki/Girvan%E2%80%93Newman_algorithm).
 	
 ## Grivan Newman Algorithm in details:
   1. Get BFS (Breadth First Search) representation of the graph from each each vertex of the graph)
