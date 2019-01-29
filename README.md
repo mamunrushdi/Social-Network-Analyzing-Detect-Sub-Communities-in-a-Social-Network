@@ -1,4 +1,4 @@
-# Capstone: Analyzing (Social) Network Data
+# Analyzing (Social) Network Data
 
 ##### This is Coursera Capston Project for University of California San Diego on Social Network analyzing using Java programming.
 
