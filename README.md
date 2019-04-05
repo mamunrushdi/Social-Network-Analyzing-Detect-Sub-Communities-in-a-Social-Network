@@ -30,7 +30,7 @@ This dataset came along with Capston warm up assignment.
 		1. Remove Y, mark it as posted node and it and its neighbor nodes visited. 
 		1. Remove Y from the priority queue
 		1. Check if any neighbor node, Z of Y has at least 3 (three) friends who has posted/shared the message.
-		1. If yes, add Z queue2
+		1. If yes, add Z queue2.
 		1. Repeat this process until queue2 is empty
 
 1. Continue this until node’s of the priority queue is empty.
